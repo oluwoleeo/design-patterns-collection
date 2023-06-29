@@ -1,2 +1,2 @@
 # design-patterns-collection
-A collection of design pattern
+A collection of design patterns
