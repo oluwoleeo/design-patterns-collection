@@ -1,4 +1,6 @@
-﻿namespace Factory
+﻿// Structural pattern
+
+namespace Factory
 {
     public class BurgerFactory
     {

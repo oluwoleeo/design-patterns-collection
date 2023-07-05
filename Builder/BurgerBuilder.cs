@@ -1,4 +1,7 @@
-﻿namespace Builder
+﻿// Structural pattern
+
+
+namespace Builder
 {
     public class BurgerBuilder
     {
